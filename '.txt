@@ -1,0 +1,6 @@
+﻿5
+Kelly|12345|15|Cashier|2019
+Peter|456789|23|Sales|2015
+Ben|101010|50|Assitant|1980
+May Barwell|159|42|Supervisor|1995
+Apple|7534|60|Manager|1975
